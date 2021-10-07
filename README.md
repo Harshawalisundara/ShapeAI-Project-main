@@ -1,1 +1,2 @@
-# ShapeAI-Project-main
+# ShapeAI-Project
+ShapeAI
